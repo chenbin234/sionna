@@ -21,3 +21,4 @@ doc/_build
 .cursor
 .claude
 doc/source/rk
+uv.lock
